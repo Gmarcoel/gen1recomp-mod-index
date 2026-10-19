@@ -11391,7 +11391,7 @@
       "title": "gmarcs Gen 2 Johto in First Person",
       "author": "gmarcs",
       "summary": "First-person companion for Gen 2 using the active voxel renderer.",
-      "version": "1.0.8",
+      "version": "1.0.10",
       "categories": [
         "ART",
         "UI"
@@ -11423,15 +11423,15 @@
       "description_url": "data/mods/gmarcs@gmarcs_gen2_johto_in_first_person/description.md",
       "thumbnail": "data/mods/gmarcs@gmarcs_gen2_johto_in_first_person/thumbnail.png",
       "latest": {
-        "name": "1.0.8",
+        "name": "1.0.10",
         "prerelease": false,
         "published_at": "2026-10-20T00:00:00Z",
-        "tag": "v1.0.8",
-        "version": "1.0.8",
+        "tag": "v1.0.10",
+        "version": "1.0.10",
         "zip": {
-          "name": "gmarcs_gen2_johto_in_first_person-1.0.8.zip",
-          "size": 16271445,
-          "url": "https://github.com/gmarcmods/gmarcs_gen2_johto_in_first_person/releases/download/v1.0.8/gmarcs_gen2_johto_in_first_person-1.0.8.zip"
+          "name": "gmarcs_gen2_johto_in_first_person-1.0.10.zip",
+          "size": 16271484,
+          "url": "https://github.com/gmarcmods/gmarcs_gen2_johto_in_first_person/releases/download/v1.0.10/gmarcs_gen2_johto_in_first_person-1.0.10.zip"
         }
       }
     }
